@@ -1,0 +1,15 @@
+C:\Users\josh\source\repos\WindowsApp3\WindowsApp3\bin\Debug\CMSFileProtector.exe.config
+C:\Users\josh\source\repos\WindowsApp3\WindowsApp3\bin\Debug\CMSFileProtector.exe
+C:\Users\josh\source\repos\WindowsApp3\WindowsApp3\bin\Debug\CMSFileProtector.pdb
+C:\Users\josh\source\repos\WindowsApp3\WindowsApp3\bin\Debug\CMSFileProtector.xml
+C:\Users\josh\source\repos\WindowsApp3\WindowsApp3\obj\Debug\CMS File Protector.vbprojAssemblyReference.cache
+C:\Users\josh\source\repos\WindowsApp3\WindowsApp3\obj\Debug\CMSFD.CarpBloqueda.resources
+C:\Users\josh\source\repos\WindowsApp3\WindowsApp3\obj\Debug\CMSFD.CarpDesbloq.resources
+C:\Users\josh\source\repos\WindowsApp3\WindowsApp3\obj\Debug\CMSFD.shangecntr.resources
+C:\Users\josh\source\repos\WindowsApp3\WindowsApp3\obj\Debug\CMSFD.Init.resources
+C:\Users\josh\source\repos\WindowsApp3\WindowsApp3\obj\Debug\CMSFD.Resources.resources
+C:\Users\josh\source\repos\WindowsApp3\WindowsApp3\obj\Debug\CMS File Protector.vbproj.GenerateResource.cache
+C:\Users\josh\source\repos\WindowsApp3\WindowsApp3\obj\Debug\CMS File Protector.vbproj.CoreCompileInputs.cache
+C:\Users\josh\source\repos\WindowsApp3\WindowsApp3\obj\Debug\CMSFileProtector.exe
+C:\Users\josh\source\repos\WindowsApp3\WindowsApp3\obj\Debug\CMSFileProtector.xml
+C:\Users\josh\source\repos\WindowsApp3\WindowsApp3\obj\Debug\CMSFileProtector.pdb

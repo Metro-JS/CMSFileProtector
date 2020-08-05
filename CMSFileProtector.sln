@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CMS FileProtector", "WindowsApp3\CMS FileProtector.vbproj", "{51B63711-A2AC-47D6-9AA7-766C7259E5B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51B63711-A2AC-47D6-9AA7-766C7259E5B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B63711-A2AC-47D6-9AA7-766C7259E5B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B63711-A2AC-47D6-9AA7-766C7259E5B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51B63711-A2AC-47D6-9AA7-766C7259E5B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41E7A1DD-9693-4DC8-B9B7-F6D2DC513BC1}
+	EndGlobalSection
+EndGlobal
